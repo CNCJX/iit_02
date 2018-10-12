@@ -72,7 +72,7 @@ public class ContentController {
     //@PostMapping("/rest/content/delete")
     public Map<String, Integer> delete(String ids){
 
-        System.out.println("ids=" + ids);
+        System.out.println("ids=" +ids);
 
         int result = contentService.delete(ids);
 
