@@ -1,0 +1,10 @@
+rootProject.name = 'taotao-parent'
+include 'taotao-poji'
+include 'taotao-pojo'
+include 'taotao-mapper'
+include 'taotao-manager'
+include 'taotao-service'
+include 'taotao-interface'
+include 'taotao-common'
+include 'taotao-portal'
+
